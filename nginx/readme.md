@@ -1,0 +1,1 @@
+Create docker image with custom index.html with as small size as possible.
